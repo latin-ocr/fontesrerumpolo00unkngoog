@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fontesrerumpolo00unkngoog_0001.png"; bbox 0 0 3793 5187; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 12 192 334">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 12 192 334">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 12 192 334; baseline 0 4853"><span class='ocrx_word' id='word_1_1' title='bbox 0 12 192 334; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1339 2301 2035 2504">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1339 2301 2035 2504">
+     <span class='ocr_line' id='line_1_2' title="bbox 1339 2301 2035 2504; baseline -0.004 0"><span class='ocrx_word' id='word_1_2' title='bbox 1339 2307 1592 2446; x_wconf 63' lang='lat' dir='ltr'><strong>we</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1643 2302 1850 2504; x_wconf 51' lang='lat' dir='ltr'><strong>gift</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1914 2301 2035 2501; x_wconf 76' lang='lat' dir='ltr'><strong>of</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1053 2788 2149 2877">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1053 2788 2149 2877">
+     <span class='ocr_line' id='line_1_3' title="bbox 1053 2788 2149 2877; baseline 0.011 -12"><span class='ocrx_word' id='word_1_5' title='bbox 1053 2788 1418 2869; x_wconf 62' lang='lat' dir='ltr'><strong>mobert</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1471 2794 1845 2871; x_wconf 65' lang='lat' dir='ltr'>nora-d</span> <span class='ocrx_word' id='word_1_7' title='bbox 1898 2799 2149 2877; x_wconf 74' lang='lat' dir='ltr'><strong>Lex-&lt;1</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 666 2021 2727 3296">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 666 2021 2727 3296">
+     <span class='ocr_line' id='line_1_4' title="bbox 666 2021 2727 3296; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 666 2021 2727 3296; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
